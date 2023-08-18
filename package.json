@@ -1,0 +1,22 @@
+{
+  "name": "suowdl--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@progress/kendo-react-buttons": "5.16.1",
+    "@progress/kendo-licensing": "1.3.1",
+    "@progress/kendo-svg-icons": "1.9.0",
+    "@progress/kendo-react-common": "5.16.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
